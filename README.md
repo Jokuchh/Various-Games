@@ -1,5 +1,5 @@
 All works have their different task and they were posted on these web-pages. In some cases they are different because it has been a long time and the site is changing. 
-The system of education was about making everything as soon as possible with the highest quality. You could test yourself every three hours CET by sending your code to 'the Arena', where it was tested for uniqueness and flexibility.
+The system of education was about making everything as soon as possible with the highest quality. You could test yourself every three hours CEST by sending your code to 'the Arena', where it was tested for uniqueness and flexibility.
 
 - **Problem Set 3** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.02.k.html
 One of the popular game 2048. Even though this game was programmed in one weekend in March 2014 by 19-year-old Italian web developer Gabriele Cirulli, it quickly became popular and well-loved.
