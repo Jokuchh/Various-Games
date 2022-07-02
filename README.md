@@ -10,6 +10,9 @@ Main goals of **Problem Set 3** :
 
 2️⃣ Work with two-dimensional arrays.
 
+![2048](https://user-images.githubusercontent.com/92337987/176998840-00ca848d-fc79-44b0-9fa4-11d0a877ef77.png)
+
+
 - **Problem Set 5** - https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.05.adventure.html 
 2D game with its own story, gameplay and objectives. Consist of multiple rooms, items interaction and a boss.
 
@@ -34,3 +37,7 @@ Mastermind is a two-player game, which is better known in our country under the 
 Main goals of **Problem Set 6** :
 
 1️⃣ Learn how to work with the Arduino prototyping board
+
+
+![Mastermind](https://user-images.githubusercontent.com/92337987/176998849-08a82919-75c3-4e8c-bb30-e57dc8837d2e.png)
+
