@@ -32,6 +32,11 @@ Main goals of **Problem Set 5** :
 
 6️⃣ To learn how to write regular expressions.
 
+![Page1](https://user-images.githubusercontent.com/92337987/177014320-1754660b-dc43-4201-b92d-d0a83282f457.png)
+
+![river1](https://user-images.githubusercontent.com/92337987/177014283-b3453f07-28e9-4ef6-b36e-051951b8cf4d.png)
+
+
 
 # **Problem Set 6** 
 ## https://kurzy.kpi.fei.tuke.sk/pvjc/2022/problemset.06.arduino.html
